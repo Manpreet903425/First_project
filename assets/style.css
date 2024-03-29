@@ -1,0 +1,279 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+      font-weight: 800;
+      font-size: 36px;
+}
+header{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    padding: 32px 16px;
+    line-height: 30px;
+    
+}
+nav{
+    text-align: center;
+}
+nav ul{
+        display: flex;
+        gap: 20px;
+        justify-content: center;
+        font-size: 20px;
+        
+}
+nav ul a{
+          text-decoration: none;
+}
+nav ul li{
+          list-style: none ;
+}
+.sp{
+    color: orange;
+}
+.sp1{
+    color: orange;
+}
+.span_2{
+         color: orange;
+}
+.left side{
+            margin: 180px 180px;
+}
+.special_heading{
+                  font-size:56px;
+                  font-weight:900 ;
+}
+.sub_heading{
+                 font-size: 32px;
+}
+.special_heading2{
+                   font-size: 56px;
+                    font-weight: 900px;
+}
+.sub_heading2{
+                font-size: 32px;
+                padding:  0px 34px;
+}
+.home{
+        margin: 180px 180px;
+        display: flex;
+}
+.home1{
+        text-align: center;
+}
+.img{
+      padding: 5px;
+}
+.special_img{
+              display: flex;
+              gap: 16px;
+}
+.img2{
+       width: 50%;
+       height:40vh;
+}
+.im5{
+    gap:16px;
+    background-color: aliceblue;
+}
+.Heading{
+          font-size: 40px;
+          padding:0px 25%;
+}
+.pr{
+    font-size: 20px;
+    padding: 0px 15%;
+    font-weight: 600;
+}
+.btn{
+      margin: 27px;
+      height: 37px;
+      width: 100px;
+      background-color: orange;
+      color: white;
+      border: none;
+}
+.btn2{
+       margin:27px;
+       height: 37px;
+       width: 100px;
+       background-color: orange;
+       color: white;
+       border: none;
+       
+}
+.Food{
+       font-size: 56px;
+       font-weight: 600;
+       color: black;
+}
+.hd2{
+    font-size: 56px;
+}
+.p4{
+    font-size: 25px;
+    padding: 0px 9px;
+}
+.td{
+    display: flex;
+    background-color: aliceblue; 
+    gap: 16px;
+    margin-top: 20px;
+}
+.anc{
+      color: orange;
+      font-size: 30px;
+      padding: 5px;
+      margin: 5px;
+      text-decoration: none;
+}
+.serve{
+         font-size: 30px
+               
+}
+.sec{
+      display: flex;
+      padding: 50px;
+}
+.chef_heading{
+               font-size: 45px;
+               font-weight: 600;
+               padding: 40px;
+               
+}
+.chef_p{
+            font-size: 25px;
+}
+.chef_sub{
+          font-size: 24px;       
+
+}
+.chef_section{
+               display: flex;
+               margin: 30px;
+}
+.chef_img2{
+    width: 400px;
+     background-color: orange;
+    border-radius: 100%;
+}
+.topping{
+          width: 200px;
+}
+.customer_h{
+             font-size: 45px;
+             font-weight: 500;
+             text-align: center;
+}
+.customer_p{
+             font-size: 25px;
+             text-align: center;
+}
+.class1{
+         margin-top: 2rem;
+         max-width: 850px;
+         margin-inline: auto;
+         padding: 3rem 1rem;
+         overflow: hidden;
+         border: 2px solid rgba(red, green, blue, alpha);
+         box-shadow: 5px 5px 30px;
+         border-radius: 3rem;
+         height: 400px;
+}
+
+
+.client_1{
+           width:20%;
+           margin-left: 40%;
+           border-radius:100%;
+}
+.client_h1{
+           font-size: 50px;
+           text-align: center;
+}
+.client_p1{
+            text-align: center;
+}
+.client_p2{
+            text-align: center;
+            font-size: 24px;
+        
+}
+.p_cust{
+          margin: 5px;
+}
+.footer_class{
+                display: flex;
+                padding: 100px;
+                gap: 20%;
+                
+}
+.footer_heading{
+                 font-size: 40px;
+
+                 
+}
+.footer_p{
+             font-size: 29px;
+}
+.footer_ul{
+           font-size: 25px;
+            list-style: none;
+           column-gap: 40px;
+           margin-top: 5px;
+        
+    
+           
+}
+.footer_div{
+              display: flex;
+              gap: 30px;
+              
+}
+.home_p{
+          font-size: 38px;
+}
+.home_button{
+               width:110px;
+               height: 50px;
+               background-color: orange;
+               color: white;
+               border: none;
+
+               
+}
+.footerbar{
+           padding-top: 40%;
+           text-align: center;
+           color: black;
+           font-weight: 400;
+}
+
+
+
+
+
+
+
+               
+               
+
+
+
+
+
+
+
+
+
+
+            
+
+              
+
+
+
+
